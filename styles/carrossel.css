@@ -96,6 +96,10 @@
         width: 40%;
         margin: 2em auto;
     }
+
+    .botoes__ancora:hover {
+        background-color: var(--azul);
+    }
 }
 
 @media screen and (min-width: 1728px){
